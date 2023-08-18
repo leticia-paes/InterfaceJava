@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lepae
+ *
+ */
+module InterfaceTest {
+}
